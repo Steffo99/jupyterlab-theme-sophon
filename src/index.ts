@@ -17,7 +17,7 @@ const extension: JupyterFrontEndPlugin<void> = {
     const style = 'jupyterlab_theme_sophon/index.css';
 
     manager.register({
-      name: 'jupyterlab_theme_sophon',
+      name: 'JupyterLab Sophon',
       isLight: true,
       load: () => manager.loadCSS(style),
       unload: () => Promise.resolve(undefined)
