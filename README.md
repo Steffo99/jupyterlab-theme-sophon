@@ -1,7 +1,5 @@
 # jupyterlab_theme_sophon
 
-![Github Actions Status](https://github.com/Steffo99/jupyterlab-theme-sophon/workflows/Build/badge.svg)
-
 Sophon theme for JupyterLab
 
 
